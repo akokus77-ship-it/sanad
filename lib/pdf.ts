@@ -21,6 +21,15 @@ export async function downloadElementPdf(element: HTMLElement, filename: string)
   const imgHeight = (canvas.height * pageWidth) / canvas.width;
   const image = canvas.toDataURL("image/jpeg", 0.95);
 
+  // A typical Sanad document is one page. Rounding from html2canvas
+  // can overshoot A4 by a few millimetres and create a blank page.
+  if (imgHeight <= pageHeight + 12) {
+    const fittedHeight = Math.min(imgHeight, pageHeight);
+    pdf.addImage(image, "JPEG", 0, 0, imgWidth, fittedHeight);
+    pdf.save(filename);
+    return;
+  }
+
   let remaining = imgHeight;
   let offset = 0;
 
