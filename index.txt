@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+4:I[367,["974","static/chunks/app/page-ffaa03f267ebeb42.js"],"SanadApp"]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/media/17efc7caebbb6a73-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/79d9077e4fd7eddc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/99dc19e540dbb87b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9da48a48bf6500f8-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/af4bf8399d1aacdf-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/b729ad8c86c7d641-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4efb0298547fad0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/f022b1629605b85c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fb66eb17bf011c3b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/f4e3ccfab87ffcef.css","style"]
+0:{"P":null,"b":"TBYA6joC7OsaS0YQXlZHC","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f4e3ccfab87ffcef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"__variable_4d99d1 __variable_48c46e","children":["$","body",null,{"style":{"fontFamily":"var(--font-sans), Tahoma, sans-serif"},"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"app","children":[["$","h1",null,{"children":"سند · Sanad"}],["$","p",null,{"children":"الصفحة غير موجودة. / This page is not here."}],["$","p",null,{"children":["$","a",null,{"href":"/","children":"العودة للرئيسية · Back home"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{}],null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+f:I[622,[],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"سند | Sanad — فواتير وعروض أسعار"}],["$","meta","1",{"name":"description","content":"Bilingual Arabic-first invoice and quotation PDF app for Saudi and Gulf small businesses. Not a ZATCA-certified e-invoice."}],["$","meta","2",{"name":"application-name","content":"Sanad"}],["$","link","3",{"rel":"icon","href":"/icon.svg"}],["$","$Lf","4",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
